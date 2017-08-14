@@ -44,6 +44,12 @@ li {
 
 }
 
+.search-form .buttons form{
+    display: inline-block;
+    margin: auto;
+
+}
+
 .search-form .search input{
     text-align: left;
     display: block;
